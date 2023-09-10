@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Howerton @MasterBabyYoda 
+- 👋 Hi, I’m Joseph Howerton
 - 👀 I’m interested in ...
 I honestly really like working with code in my spare time but also keeping up with soccer. I am a proud Madrista and COYS. I also love the simplicity of making pasta. It reminds me a lot of programming in fact. Most software patterns whether it is architectural or design are extremely simple and beautiful but very hard to learn and so is pasta. Pasta at it's core is only two ingredients for every 100 grams of 00 flour add 1 egg (personally I also add an additional egg yolk). However, making great pasta is a life long journey similar to making great software.
 
